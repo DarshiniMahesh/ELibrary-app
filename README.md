@@ -29,30 +29,40 @@ The app allows users to **search, upload, and browse books** with a clean UI and
 ## 📸 Screenshots
 
 ### User App
-- **Home Page**  
-  ![Home Page](docs/screenshots/Home.png)
-  ![Home Page](docs/screenshots/Home1.png)
 
+- #### Home Page
+<p align="center">
+  <img src="docs/screenshots/Home.png" alt="Home Page" width="500" style="margin:15px 0; border-radius:8px;" />
+  <img src="docs/screenshots/Home1.png" alt="Home Page Alt" width="500" style="margin:15px 0; border-radius:8px;" />
+</p>
 
-- **Search Page**  
-  ![Search Page](docs/screenshots/Search.png)
-  ![Search Page](docs/screenshots/Search1.png)
+- #### Search Page
+<p align="center">
+  <img src="docs/screenshots/Search.png" alt="Search Page" width="500" style="margin:15px 0; border-radius:8px;" />
+  <img src="docs/screenshots/Search1.png" alt="Search Page Alt" width="500" style="margin:15px 0; border-radius:8px;" />
+</p>
 
+- #### Upload Page
+<p align="center">
+  <img src="docs/screenshots/Upload.png" alt="Upload Page" width="500" style="margin:15px 0; border-radius:8px;" />
+  <img src="docs/screenshots/Upload1.png" alt="Upload Page Alt" width="500" style="margin:15px 0; border-radius:8px;" />
+</p>
 
-- **Upload Page**  
-  ![Upload Page](docs/screenshots/Upload.png)
-  ![Upload Page](docs/screenshots/Upload1.png)
+- #### About Page
+<p align="center">
+  <img src="docs/screenshots/About1.png" alt="About Page" width="500" style="margin:15px 0; border-radius:8px;" />
+  <img src="docs/screenshots/About2.png" alt="About Page Alt" width="500" style="margin:15px 0; border-radius:8px;" />
+</p>
 
-- **About Page**  
-  ![About Page](docs/screenshots/About1.png)
-  ![About Page](docs/screenshots/About2.png)
-
+---
 
 ### Admin App
-- **Admin Dashboard**  
-- **Book Management**  
-  ![Admin Dashboard](docs/screenshots/Admin.jpg)
 
+- #### Admin Dashboard
+- #### Book Management
+<p align="center">
+  <img src="docs/screenshots/Admin.jpg" alt="Admin Dashboard" width="600" style="margin:15px 0; border-radius:8px;" />
+</p>
 
 ---
 
@@ -117,19 +127,11 @@ ELibrary-app/
 
 ---
 
-## 👩‍💻 Developer
-**Darshini M S**  
-Aspiring AI Full Stack Engineer & Computer Science student.  
-Focused on building **AI / ML Applications and Full Stack Web development**.
-
----
-
----
-
-## 👩‍💻 Contributor
-**Deepak M**  
-CSE student building intelligent software solution.  
-Focused on building **Developing AI-powered software and crafting innovative AI software**.
+## 👩‍💻 Team
+- **Darshini M S** — Aspiring AI Full Stack Engineer & Computer Science student.  
+  Focused on building AI/ML applications and full stack web development.
+- **Deepak M** — CSE student building intelligent software solutions.  
+  Focused on developing AI‑powered software and crafting innovative AI systems..
 
 ---
 
