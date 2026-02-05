@@ -70,7 +70,7 @@ The app allows users to **search, upload, and browse books** with a clean UI and
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/library-app.git
+git clone https://github.com/DarshiniMahesh/ELibrary-app.git
 cd ELibrary-app
 ```
 
