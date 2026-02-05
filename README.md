@@ -3,7 +3,7 @@
 A modern, accessible digital library built with **Node.js, Express, MongoDB, and React**.  
 The app allows users to **search, upload, and browse books** with a clean UI and secure backend, plus an **Admin Panel** for managing content.
 
-👉 Live Demo: [Library App on Vercel](https://library-app-58a9.vercel.app/)
+👉 Live Demo: [Library App on Vercel](https://elibrary-app-phi.vercel.app/)
 
 ---
 
