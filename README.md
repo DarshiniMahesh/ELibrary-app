@@ -1,7 +1,3 @@
-Here’s a complete **README.md** draft for your **ELibrary App** project, covering the **User App, Admin Panel, and Backend** with screenshots, scripts, and professional documentation. You can copy this directly into your repo and adjust image paths to match your uploaded screenshots.
-
----
-
 # 📚 ELibrary App
 
 A modern, accessible digital library built with **Node.js, Express, MongoDB, and React**.  
