@@ -1,0 +1,17 @@
+{
+  "name": "library-app-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run start-backend\" \"npm run start-user\"",
+    "admin": "concurrently \"npm run start-backend\" \"npm run start-admin\"",
+    "start-user": "cd user && npm start",
+    "start-admin": "cd admin && npm start",
+    "start-backend": "cd backend && npm start",
+    "install-all": "npm install && cd user && npm install && cd ../admin && npm install && cd ../backend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
