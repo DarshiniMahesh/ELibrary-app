@@ -1,7 +1,3 @@
-Here’s a complete **README.md** draft for your **ELibrary App** project, covering the **User App, Admin Panel, and Backend** with screenshots, scripts, and professional documentation. You can copy this directly into your repo and adjust image paths to match your uploaded screenshots.
-
----
-
 # 📚 ELibrary App
 
 A modern, accessible digital library built with **Node.js, Express, MongoDB, and React**.  
@@ -34,22 +30,22 @@ The app allows users to **search, upload, and browse books** with a clean UI and
 
 ### User App
 - **Home Page**  
-  ![Home Page](docs/screenshots/Home.png)
-  ![Home Page](docs/screenshots/Home1.png)
+  ![Home Page](docs/screenshots/Home.png)  
+  ![Home Page](docs/screenshots/Home1.png)  
 
 
 - **Search Page**  
-  ![Search Page](docs/screenshots/Search.png)
-  ![Search Page](docs/screenshots/Search1.png)
+  ![Search Page](docs/screenshots/Search.png)  
+  ![Search Page](docs/screenshots/Search1.png)  
 
 
 - **Upload Page**  
-  ![Upload Page](docs/screenshots/Upload.png)
-  ![Upload Page](docs/screenshots/Upload1.png)
+  ![Upload Page](docs/screenshots/Upload.png)  
+  ![Upload Page](docs/screenshots/Upload1.png)  
 
 - **About Page**  
-  ![About Page](docs/screenshots/About1.png)
-  ![About Page](docs/screenshots/About2.png)
+  ![About Page](docs/screenshots/About1.png)  
+  ![About Page](docs/screenshots/About2.png)  
 
 
 ### Admin App
@@ -125,8 +121,6 @@ ELibrary-app/
 **Darshini M S**  
 Aspiring AI Full Stack Engineer & Computer Science student.  
 Focused on building **AI / ML Applications and Full Stack Web development**.
-
----
 
 ---
 
