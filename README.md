@@ -131,7 +131,8 @@ ELibrary-app/
 - **Darshini M S** - Aspiring AI Full Stack Engineer & Computer Science student.  
   Focused on building AI/ML applications and full stack web development.
 - **Deepak M** - CSE student building intelligent software solutions.  
-  Focused on developing AI‑powered software and crafting innovative AI systems..
+  Focused on developing AI‑powered software and crafting innovative AI systems.
+  Minor documentation improvement acknowledging collaborative development.
 
 ---
 
